@@ -1,0 +1,107 @@
+	18/02/2017	Sede Nacional	10.12.12.11	0	Calle 13 # 57-50	12/05/2017	0000-00-00	1	0	on	on	Acta enviada a LA	60_Mantenimiento_Preventivo_Coomeva_Cali_Sede_Nacional_12_05_2017
+	18/02/2017	Bancoomeva Sogamoso	10.134.20.20	IPO	Carrera 14 No. 16-51 	4/03/2017	0000-00-00	1	0	on	on		01_Mantenimiento_Preventivo_Bancoomeva_Sogamoso_04_03_2017
+	18/02/2017	Bancoomeva Pereira El lago	10.132.62.20	IPO	Calle 23 # 8-55 Local 216	4/03/2017	0000-00-00	1	0	on	on		02_Mantenimiento_Preventivo_Coomeva_Pereira _El_Lago_04_03_2017
+	18/02/2017	Bancoomeva Apartado	10.134.0.20	IPO	Calle 98 No. 103-111, Local 101-201	4/03/2017	0000-00-00	1	0	on	on		03_Mantenimiento_Preventivo_Bancoomeva_Apartado _04_03_2017
+	18/02/2017	Bancoomeva Barrancabermeja	10.134.1.20	IPO	Carrera 16 No. 48 - 41, Local 101	4/03/2017	0000-00-00	1	0	on	on		04_Mantenimiento_Preventivo_Bancoomeva_Barrancabermeja_04_03_2017
+	25/02/2017	HEC Cartagena	10.30.49.10	IPO	Avenida Jiménez Cra 18 No.25-142 Manga, local 1 del seg	11/03/2017	0000-00-00	1	0	on	on		06_Mantenimiento_Preventivo_HEC_Cartagena_11_03_2017
+	25/02/2017	Bancoomeva Bogota Zona Industrial	10.132.20.20	IPO	Calle 13 No. 65-71, Local 6, Centro Comercial Paseo Cen	11/03/2017	0000-00-00	1	0	on	on		07_Mantenimiento_Preventivo_Bancoomeva_Bogota_Zona_Industrial
+	25/02/2017	Bancoomeva Cali Imbanaco	10.132.28.20	0	Calle 5 # 38D - 153	11/03/2017	0000-00-00	1	0	on	on		08_Mantenimiento_Preventivo_Bancoomeva_Cali_Imbanaco_11_03_2017
+	25/02/2017	EPS Barranquilla Centro de Operaciones	10.120.12.20	0	No Datos	11/03/2017	0000-00-00	1	0	on	on		05_Mantenimiento_Preventivo_EPS_Barranquilla_Centro_de_Operaciones_10_03_2017
+	25/02/2017	Bancoomeva Cartago	10.134.4.20	0	Carrera 4 No. 11-14, Segundo Piso	11/03/2017	0000-00-00	1	0	on	on		09_Mantenimiento_Preventivo_Bancoomeva_Cartago_11_03_2017
+	4/03/2017	Bancoomenva Barranquilla Prado	No Datos	0	No Datos	21/03/2017	0000-00-00	1	0	on	on		10_Mantenimiento_Preventivo_Bancoomeva_Bquilla_Prado_28_03_2017
+	4/03/2017	Bancoomeva Cali CAC Vida	10.132.27.20	0	Calle 5 D No. 38 A - 35	18/03/2017	0000-00-00	1	0	on	on		11_Mantenimiento_Preventivo_Bancoomeva_Cali_CAC_Vida_18_03_2017
+	4/03/2017	Bancoomeva Mushaisa	10.134.11.20	0	Carrera 4 No. 20, Esquina, Complejo Carbonifero Interco	18/03/2017	0000-00-00	1	0	on	on		12_Mantenimiento_Preventivo_Bancoomeva_Cartagena _Mushaisa_17_03_2017
+	4/03/2017	Bancoomeva Bogotá Calle 80	10.132.7.20	0	Calle 80 No. 73A-29, Centro Comercial San Francisco	18/03/2017	0000-00-00	1	0	on	on		13_Mantenimiento-Preventivo_Bancoomeva_Calle80_18_03_2017
+	4/03/2017	Bancoomeva Itagui	10.132.37.20	0	Cra  50 N° 52 – 12	21/03/2017	0000-00-00	1	0	on	on		14_Mantenimiento_Preventivo_Bancoomeva-Itagui_28_03_2017
+	11/03/2017	Bancoomeva Plaza de las Américas	10.134.27.20	0	Transversal 71D No. 26-94 Sur, Local 3505	25/03/2017	0000-00-00	1	0	on	on		16_Mantenimiento_Preventivo_Bancoomeva_Plaza_De_las_Americas_25_03_2017
+	11/03/2017	Banccomeva Duitama Recaudos	10.134.24.20	0	Carrera 15 No 17 - 12	25/03/2017	0000-00-00	1	0	on	on		17_Mantenimiento_Preventivo_Coomeva_Duitama_Recaudos_24_03_2017
+	11/03/2017	Bancoomeva Medellín Las Americas	10.132.41.20	0	Diagonal 75B No. 2A-120, Local 113	25/03/2017	0000-00-00	1	0	on	on		18_Mantenimiento_Preventivo_Bancoomeva_Medellin_Las_Americas_25_03_2017
+	11/03/2017	Bancoomeva Ipiales	10.134.7.19	0	Carrera 7 No. 15-59	25/03/2017	0000-00-00	1	0	on	on		19_Mantenimiento_Preventivo_Bancoomeva_Ipiales_25_03_2017
+	11/03/2017	Bancoomeva Cali Unico	10.132.31.20	0	Carrera 100 No. 5-169 Local 133	25/03/2017	0000-00-00	1	0	on	on		20_Mantenimiento_Preventivo_Bancooomeva_Cali_CC_Unico_25_03_2017
+	18/03/2017	Bancoomeva Pasto	10.134.15.20	0	Calle 12 No. 35-38 Barrio La Aurora Primer Piso	1/04/2017	0000-00-00	1	0	on	on		33_Mantenimiento_Preventivo_Bancoomeva_Pasto_01_04_2017
+	18/03/2017	EPS San Juan del Cesar Guajira	10.120.101.20	0	Calle 7 # 2-82	1/04/2017	0000-00-00	1	0	on	on		21_Mantenimiento_Preventivo_EPS_San_Juan_Del_Cesar_Guajira_01_04_2017
+	18/03/2017	EPS Cali Holguines	No Datos	0	Carrera 100 No. 11-90, Local 250, Piso 2	1/04/2017	0000-00-00	1	0	on	on		22_Mantenimiento_Preventivo_Coomeva_EPS_Holguines_TC_Cali_01_04_2017
+	18/03/2017	sedes EPS Bogotá Edificio Héroes	No Datos	0	Cra. 19A # 78 - 80	11/04/2017	0000-00-00	1	0	on	on		24_Mantenimiento_Preventivo_Coomeva_Sedes_EPS_Bogota_Ed._Heroes_11_04_2017
+	18/03/2017	Clínica Palmira Palma Real	No Datos	0	Calle 32 No. 28-23 	22/04/2017	0000-00-00	1	0	on	on		25_Mantenimiento_Preventivo_Coomeva_Clinica_Palmira_Palma_Real_22_04_2017
+	25/03/2017	CSA Medellín	10.32.9.10	0	No Datos	3/04/2017	0000-00-00	1	0	on	on		34_Mantenimiento_Preventivo_CSA_Medellin_03_04_2017
+	25/03/2017	CSA Bucaramanga	10.32.3.10	0	Carrera 35 No. 46-67 Piso 2 Cabecera del Llano	8/04/2017	0000-00-00	1	0	on	on		35_Mantenimiento_Preventivo_CSA_Bucaramanga_10_04_2017
+	25/03/2017	EPS Florencia UBA	10.120.46.20	0	Calle 15 # 15- 17	8/04/2017	0000-00-00	1	0	on	on		36_Mantenimiento_Preventivo_EPS_Florencia_UBA_08_04_2017
+	25/03/2017	Bancoomeva Manizales Principal	10.134.9.20	0	Calle 20 No. 22-27, Local 1	8/04/2017	0000-00-00	1	0	on	on		23_Mantenimiento_Preventivo_Coomeva_Manizales_Principal_08_04_2017
+	25/03/2017	Bancoomeva  Palmira Complejo Palma Real	No Datos	0	Calle 32 No. 28-23 	22/04/2017	0000-00-00	1	0	on	on		26_Mantenimiento_Preventivo_Bancoomeva_Palmira_Complejo_Palma_Real_22_04_2017
+	1/04/2017	Bancoomeva Tunja	10.132.49.20	0	Calle 20 No. 13-10, Local 126, Centro Comercial Plaza R	22/04/2017	0000-00-00	1	0	on	on		27_Mantenimiento_Preventivo_Bancoomeva_Tunja_22_04_2017
+	1/04/2017	SMP Medellín Sede Administrativa	10.132.3.20	0	Calle 27#46-70 L 259 y 271 Centro Comercial Punto Clave	26/04/2017	0000-00-00	1	0	on	on		29_Mantenimiento_Preventivo_Coomeva_SMP_Medellin_Administrativa_26_04_2017
+	1/04/2017	Bancoomeva Pereira Prometeo	10.134.16.20	0	Carrera 13 # 13-09	22/04/2017	0000-00-00	1	0	on	on		28_Mantenimiento_Preventivo_Bancoomeva_Pereira_Prometeo_22_04_2017
+	1/04/2017	EPS Palmira Complejo Palma Real	No Datos	0	Calle 32 No. 28-23 	22/04/2017	0000-00-00	1	0	on	on		0
+	1/04/2017	CSA Holguines	No Datos	0	Cra 100 # 11-60 L 200	25/04/2017	0000-00-00	1	0	on	on		37_Mantenimiento_Preventivo_Coomeva _CSA_Holguines_Cali_25_04_2017
+	8/04/2017	Bancoomeva Barranquilla Norte	10.132.253.20	0	Carrera 14 No. 21-38	29/04/2017	0000-00-00	1	0	on	on		30_Mantenimiento_Preventivo_Bancoomeva_Bquilla_Norte_29_04_2017
+	8/04/2017	Bancoomeva Santa Marta	10.132.46.20	0	Calle 29 No. 15 -97, Local 2, Avenida Ferrocarril con A	29/04/2017	0000-00-00	1	0	on	on		31_Mantenimiento_Preventivo_Bancoomeva_Santa_Marta_29_04_2017
+	8/04/2017	Bancoomeva Envigado	10.132.35.20	0	Calle 33B Sur No. 47-71	12/05/2017	0000-00-00	1	0	on	on		46_Mantenimiento_Preventivo_Bancoomeva_Envigado_12_05_2017
+	8/04/2017	EPS Medellín la 33	No Datos	0	Calle 33 No. 74E - 69, Primer Piso	29/04/2017	0000-00-00	1	0	on	on		32_Mantenimiento_Preventivo_Coomeva_EPS_Medellin_la33_29_04_2017
+	8/04/2017	SMP Cali CEM	10.131.8.20	0		2/05/2017	0000-00-00	1	0	on	on		38_Mantenimiento_Preventivo_Bancoomeva_SMP_Cali_CEM_02_05_2017
+	15/04/2017	Bancoomeva Cartagena Centro	10.132.83.20	0	Calle 38 # 8 -10	18/03/2017	0000-00-00	1	0	on	on		15_Mantenimiento_Preventivo_Bancoomeva_Cartagena_Centro18_03_2017
+	15/04/2017	SMP Bogotá CEM	10.131.5.20	0	Carrera 28B No. 78-41 	2/05/2017	0000-00-00	1	0	on	on		39_Mantenimiento_Preventivo_Bancoomeva_SMP_Bogota_CEM_03_05_2017
+	15/04/2017	Bancoomeva Ibagué	10.132.36.20	0	Carrera 5 No. 38-14	6/05/2017	0000-00-00	1	0	on	on		40_Mantenimiento_Preventivo_Bancoomeva_Ibague_06_05_2017
+	15/04/2017	Bancoomeva Valledupar	10.132.50.20	0	CALLE 12N° 17-11 LOCAL 2	6/05/2017	0000-00-00	1	0	on	on		41_Mantenimiento_Preventivo-Bancoomeva_Valledupar_06_05_2017
+	15/04/2017	Bancoomeva Popayán	10.132.45.20	0	Calle 4 No. 7-22	6/05/2017	0000-00-00	1	0	on	on		42_Mantenimiento_Preventivo_Bancoomeva_Popayan_06_05_2017
+	22/04/2017	Bancoomeva Medellin La 33	No Datos	0	Cl 33 # 74B-267	16/05/2017	0000-00-00	1	0	on	on		44_Mantenimiento_Preventivo_Bancoomeva_Medellin_La33_16_05_2017
+	22/04/2017	Bancoomeva Cali Oasis Unicentro	10.132.4.20	0	Carrera 100 No. 5-169 Local 133	16/05/2017	0000-00-00	1	0	on	on		45_Mantenimiento_Preventivo_Bancoomeva_Cali_Oasis_Unicentro_16_05_2017
+	22/04/2017	Bancoomeva Barranquilla Centro	10.132.2.20	0	Calle 39 # 41 -07	6/05/2017	0000-00-00	1	0	on	on		43_Mantenimiento_Preventivo_Bancoomeva_Barranquilla_Centro_06_05_2017
+	22/04/2017	Bancoomeva Armenia Centro	10.132.0.20	0	Calle 8N No. 13-32 Edificio Monteverde	23/05/2017	0000-00-00	1	0	on	on		53_Mantenimiento_Preventivo_Bancoomeva_Armenia_23_05_2017
+	22/04/2017	Bancoomeva Pereira Centro	10.132.44.20	0	Cra 8 No. 23-52	16/05/2017	0000-00-00	1	0	on	on		48_Mantenimiento_Preventivo_Bancoomeva_Pereira_Centro_16_05_2017
+	29/04/2017	Bancoomeva Rionegro	10.134.19.19	0	Calle 42 No 56-39 Bloque 3 Local 143 Centro Comercial S	23/05/2017	0000-00-00	1	0	on	on		54_Mantenimiento_Preventivo_Bancoomeva_Rionegro_23_05_2017
+	29/04/2017	Bancoomeva Chia	10.132.34.20	0	Avenida Pradilla No. 5-92, Local 30A	16/05/2017	0000-00-00	1	0	on	on		49_Mantenimiento_Preventivo_Bancoomeva_Chia_16_05_2017
+	29/04/2017	Bancoomeva Cartagena Manga	10.132.33.20	0	Av. Jimenez Calle 26 No 18-69	16/05/2017	0000-00-00	1	0	on	on		47_Mantenimiento_Preventivo_Bancoomeva_Cartagena_Manga_16_05_2017
+	29/04/2017	Bancoomeva Medellín Oviedo	10.132.42.20	0	Carrera 43A No. 6 Sur-15, Local 102	27/05/2017	0000-00-00	1	0	on	on		55_Mantenimiento_Preventivo_Bancoomeva_Medellin_Oviedo_27_05_2017
+	29/04/2017	Bancoomeva Cali Depósitos Norte	10.132.26.20	0	Calle 5B NTE. No. 21-60	20/05/2017	0000-00-00	1	0	on	on		50_Mantenimiento_Preventivo_Bancoomeva_Cali_Deposito_Norte_20_05_2017
+	6/05/2017	Bancoomeva Yopal	10.134.23.20	0	Calle 7 No. 20-67, Local 101	20/05/2017	0000-00-00	1	0	on	on		51_Mantenimiento_Preventivo_Bancoomeva-Yopal_20_05_2017
+	6/05/2017	Bancoomeva BUGA	10.134.3.20	0	Carrera 14 No 5-15.	27/05/2017	0000-00-00	1	0	on	on		56_Mantenimiento_Preventivo_Bancoomeva_Buga_27_05_2017
+	6/05/2017	Bancoomeva Turbo	10.134.32.20	0	Calle 102 #  13-74	30/05/2017	0000-00-00	1	0	on	on		59_Mantenimiento_Preventivo_Bancoomeva_Turbo_ 30_05_2017
+	6/05/2017	SMP Cartagena CEM	10.131.24.20	0	Kra 6 No. 5A-126 -Barrio Boca Grande	20/06/2017	0000-00-00	1	0	0	0		71_Mantenimiento_Preventivo_SMP_Cartagena_CEM_20_06_2017
+	6/05/2017	Bancoomeva Bogotá Salitre	10.132.16.20	0	Diagonal 22B No. 68C-25, Local 19, Ciudad Salitre	20/05/2017	0000-00-00	1	0	on	on		52_Mantenimiento_Preventivo_Bancoomeva_Bogota_Salitre_20_05_2017
+	13/05/2017	Bancoomeva Bello	10.134.2.20	0	Carrera 48 No. 47-58	5/06/2017	0000-00-00	1	0	0	0		63_Mantenimiento_Preventivo_Bancoomeva_Bello_05_06_2017
+	13/05/2017	Bancoomeva Bogotá Santa Bárbara	10.132.17.20	0	Carrera 7A No. 113-43, Local 102, Edificio Torre Samsum	27/05/2017	0000-00-00	1	0	on	on		58_Mantenimiento_Preventivo_Bancoomeva_Bogota_Santa_Barbara_27_05_2017
+	13/05/2017	SMP Cali Mutuales	10.131.9.20	0	Calle 22 No. 6A-19 	5/06/2017	0000-00-00	1	0	0	0		64_Mantenimiento_Preventivo_SMP_Cali_Mutuales_05_06_2017
+	13/05/2017	Bancoomeva Bogotá Santa Fe	10.132.18.20	0	Calle 183 No. 45-03, Local 2–68, Centro Comercial Santa	3/06/2017	0000-00-00	1	0	0	0		61_Mantenimiento_Preventivo_Bancoomeva_Bogota_ Santa_Fe_03_06_2017
+	13/05/2017	EPS Cartagena UBA Santa Lucía	10.131.51.20	0	Transversal 54 #31-121 Barrio La Cordialidad, junto al	3/06/2017	0000-00-00	1	0	0	0		62_Mantenimiento_Preventivo_EPS_Cartagena_UBA_Santa_Lucia_03_06_2017
+	20/05/2017	Bancoomeva Bogotá Centro Internacional	10.132.9.20	0	Carrera 10 No. 26-49	12/06/2017	0000-00-00	1	0	0	0		69_Mantenimiento_Preventivo_Bancoomeva_Bogota_Centro_Internacional_12_06_2017
+	20/05/2017	EPS ARMENIA Sede Administrativa	10.120.6.19	0	Calle 17N No. 11-70.	6/06/2017	0000-00-00	1	0	0	0		65_Mantenimiento_Preventivo_EPS_Armenia_Sede_Administrativa_06_06_2017
+	20/05/2017	Bancoomeva Buenaventura	10.140.23.110	0	Calle 8 No. 2B-21	14/06/2017	0000-00-00	1	0	0	0		70_Mantenimiento_Preventivo_Bancoomeva_Buenaventura_14_06_2017
+	20/05/2017	Bancoomeva Tulua	10.134.21.20	0	Carrerra 27 # 25 -100	20/06/2017	0000-00-00	1	0	0	0		72_Mantenimiento_Preventivo_Bancoomeva_Tulua_20_06_2017
+	20/05/2017	Bancoomeva Florencia	10.134.6.20	0	Carrera 13 No. 12-48	27/05/2017	0000-00-00	1	0	0	0		57_Mantenimiento_Preventivo_Bancoomeva_Florencia_27_05_2017
+	27/05/2017	Bancoomeva Pamplona	10.134.14.20	0	Cl 9 # 0E-58	12/06/2017	0000-00-00	1	0	0	0		0
+	27/05/2017	Bancoomeva Bogotá Galerias	10.132.11.20	0	Carrera 21 No. 54A-92	27/06/2017	0000-00-00	1	0	0	0		78_Mantenimiento_Preventivo_Bancoomeva_Galerias_27_06_2017
+	27/05/2017	Bancoomeva Cartagena La Castellana	10.132.32.20	0	Carrera 67 No. 31-13 Manzana E, Lote 3, Castellana	10/06/2017	0000-00-00	1	0	0	0		66_Mantenimiento_Preventivo_Bancoomeva_Cartagena_La_Castellana_10_06_2017
+	27/05/2017	Bancoomeva Neiva	10.132.43.20	0	Calle 10 No.7-38	10/06/2017	0000-00-00	1	0	0	0		67_Mantenimiento_Preventivo_Bancoomeva_Neiva_10_06_2017
+	3/06/2017	Bancoova Unicentro Bogota	10.132.19.20	0	Calle 122 No. 17 A -48	10/06/2017	0000-00-00	1	0	0	0		73_Mantenimiento_Preventivo_Bancoomeva_Unicentro_20_06_2017
+	3/06/2017	HEC Medellín	10.131.144.20	0	CARRERA 80 # 32EE-7	20/06/2017	0000-00-00	1	0	0	0		74_Mantenimiento_Preventivo_Coomeva_Medellin_HEC_20_06_2017
+	3/06/2017	CSA Bogotá Sede Administrativa	10.32.16.254	0	No Datos	5/07/2017	0000-00-00	1	0	0	0		84_Mantenimiento_Preventivo_Coomeva_CSA_Bogota_05_07_2017
+	3/06/2017	SMP Medellin CEM -Punto Clave	10.131.12.20	IPO	No Datos	27/06/2017	0000-00-00	1	0	0	0		80_Mantenimiento_Preventivo_Coomeva_SMP_Medellin_Punto_Clave-27_06_2017
+	3/06/2017	EPS Cúcuta	10.131.56.20	0	Calle 13 # 0-52	16/06/2017	0000-00-00	1	0	0	0		0
+	10/06/2017	Bancoomeva Bogotá Principal	No Datos	0	Carrera 15 No. 93B-43	11/07/2017	0000-00-00	1	0	0	0		87_Mantenimiento_Preventivo_Bancoomeva_Bogota_Principal_11_07_2017
+	10/06/2017	Bancoomeva Medellín la 70	10.132.40.20	0	Carrera 70 No. 45E-103	1/07/2017	0000-00-00	1	0	0	0		0
+	10/06/2017	Bancoomeva Quibdó	10.134.17.20	0	Carrera 5 No. 29 - 44/46	24/06/2017	0000-00-00	1	0	0	0		0
+	10/06/2017	Bancoomeva Bucaramanga	10.132.22.20	0	Calle 54 No. 31-154	24/06/2017	0000-00-00	1	0	0	0		76_Mantenimiento_Preventivo_Bancoomeva_Bmanga_24_06_2017
+	17/06/2017	Bancoomeva La Dorada	10.134.29.20	0	Carrera 3 No 13-40 Local 1 Edificio Colombia	11/07/2017	0000-00-00	1	0	0	0		88_Mantenimiento_Preventivo_Bancoomeva_La_Dorada_11_07_2017
+	17/06/2017	CSA Pereira Sede Administrativa	10.32.13.1	0	Avenida Circunvalar # 3B-16 	27/06/2017	0000-00-00	1	0	0	0		0
+	17/06/2017	Bancoomeva Villavicencio	10.134.22.20	0	Calle 14 No. 38-40 Centro Comercial Llano Centro L-1007	1/07/2017	0000-00-00	1	0	0	0		83_Mantenimiento_Preventivo_Bancoomeva_Villavicencio_Llanocentro_01_07_2017
+	17/06/2017	Bancoomeva Sincelejo	10.132.47.20	0	Calle 17 No.16B-61	1/07/2017	0000-00-00	1	0	0	0		82_Mantenimiento_Preventivo_Bancoomeva_Sincelejo_01_07_2017
+	24/06/2017	Bancoomeva Suba Plaza Imperial	10.132.21.20	0	Carrera 104 No. 148-07, Local 279-280, Centro Comercial	17/07/2017	0000-00-00	1	0	0	0		0
+	24/06/2017	Bancoomeva Cali Cosmocentro	10.132.25.20	0	Centro Comercial Cosmocentro - Local C-232, 2do Piso	8/07/2017	0000-00-00	1	0	0	0		85_Mantenimiento_Preventivo_Bancoomeva_Cali_Cosmocentro_08_07_2017
+	24/06/2017	Bancoomeva Medellín Ayacucho	10.132.38.20	0	Carrera 40 No. 49-24, Piso 3	11/07/2017	0000-00-00	1	0	0	0		89_Mantenimiento_Preventivo_Bancoomeva_Medellin_Ayacucho_13_07_2017
+	24/06/2017	Bancoomeva Armenia Norte	10.132.1.20	0	Carrera 14 No. 21-38	8/07/2017	0000-00-00	1	0	0	0		86_Mantenimiento_Preventivo_Bancoomeva_Armenia_Norte_08_07_2017
+	24/06/2017	Bancoomeva Monteria	10.134.10.20	0	Calle 28 No. 4-21, Local 105	14/07/2017	0000-00-00	1	0	0	0		0
+	10/07/2017	Bancoomeva Bogotá Andino	10.132.5.20	0	Avenida 82 No. 10-50	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	Bancoomeva Bogotá Cedritos	10.132.8.20	IPO	Diagonal 151 No. 32-19, Locales 2-107 a 109, Centro Com	0000-00-00	0000-00-00	0	0	0	0		0
+	1/07/2017	EPS Cali Seres	10.131.118.12	0	Carrera 61 #9-251 segundo piso	17/07/2017	0000-00-00	1	0	0	0		0
+	8/07/2017	EPS Cartagena Sede Administrativa (Manga)	10.120.27.20	0	CALLE 29D No. 22A-13 Local 3	0000-00-00	0000-00-00	0	0	0	0		0
+	8/07/2017	Bancoomeva Bogotá Restrepo	10.132.15.20	0	Carrera 24 No. 15-16 Sur	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	Bancoomeva Bogotá Chapinero	10.132.10.20	IPO	Carrera 13 No. 53-52	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	Bancoomeva Cali Depósitos Centro	10.132.24.20	IPO	Carrera 4 Nº 8-73	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	Bancoomeva Bogotá Avenida Chile	10.132.6.20	IPO	Carrera 7 No. 72-83	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	CSA Barranquilla	10.32.10.20	IPO	No Datos	0000-00-00	0000-00-00	0	0	0	0		0
+	15/07/2017	SMP Medellín UPP Laureles	10.120.4.19	0	Carrera 43A # 16B-138	17/07/2017	0000-00-00	1	0	0	0		0
+	15/07/2017	Bancoomeva Riohacha Extensión de Caja	10.134.18.20	0	Cra 8 # 3- 27 Piso 1	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	EPS Sincelejo Sede Administrativa, UBA Ford y Clínica S	10.120.109.20	IPO	Carrera 19 con Calle 17 Esquina, Barrio Ford	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	Bancoomeva Bogotá Niza	10.132.12.20	IPO	Carrera 70D No. 127-60, Interior 6, Local 61	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	SMP Medellín PyP Sao Paulo	10.131.16.20	IPO	CC Sao Paulo L 460 Cra 43 A # 18 Sur – 135	0000-00-00	0000-00-00	0	0	0	0		0
+	0000-00-00	Bancoomeva Cucuta	10.134.5.20	IPO	Cra 15 # 49 34	0000-00-00	0000-00-00	0	0	0	0		0

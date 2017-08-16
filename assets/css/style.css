@@ -1,0 +1,225 @@
+@font-face{
+  font-family: comfortaa;
+  src: url('../fonts/Comfortaa-Light.ttf');
+}
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.CustomNav{
+    background: #000 !important;
+}
+
+.espacio{
+    margin-top: 30px !important;;
+}
+
+.pendientes{
+    background: #f00;
+}
+
+.enCurso{
+    background: #0f0;
+}
+
+.resueltos{
+    background: #00f; 
+}
+
+.titulo1{
+    font-family: comfortaa;
+    color: #000 !important; 
+}
+
+.titulo2{
+    font-family: comfortaa;
+    color: #000 !important;
+}
+
+.titulo3{
+    font-size: 15px;
+    font-family: comfortaa;
+    color: #000 !important;
+}
+
+.titulo4{
+    font-size: 30px;
+    font-family: comfortaa;
+    color: #000 !important;
+}
+.titModal{
+    font-size: 24px;
+    font-family: comfortaa;
+    color: #1a237e  !important;
+}
+.txt_modal{
+    font-size: 20px;
+    font-family: comfortaa;
+    color: #000 !important;
+}
+.txtEmpresas{
+    font-size: 25px !important;
+    font-family: comfortaa;
+    color: #000 !important;
+    font-weight: bold
+}
+.txt1-red{
+    font-family: comfortaa;
+    color: #f00 !important;
+}
+
+.txt1{
+    font-family: comfortaa;
+    color: #000 !important;
+}
+.txtEmpresas:hover{
+    color: #d81b60  !important;
+}
+.tituloTab{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: comfortaa;
+    color: #fff   !important;
+}
+
+.txt1-blanco{
+    font-size: 12px;
+    font-family: comfortaa;
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.fuente{
+    font-family: comfortaa;
+}
+
+.txt-blanco{
+    font-size: 18px;
+    font-family: comfortaa;
+    color: #fff !important;
+}
+
+.txt_naranja{
+    font-size: 18px;
+    font-family: comfortaa;
+    background: #ffc400  !important;
+    color: #fff !important;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.txt_amarillo{
+    font-size: 18px;
+    font-family: comfortaa;
+    background: #009688 !important;
+    color: #fff !important;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.txt_azul{
+    font-size: 18px;
+    font-family: comfortaa;
+    background: #283593 !important;
+    color: #fff !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.txt_verde{
+    font-size: 18px;
+    font-family: comfortaa;
+    background: #64dd17 !important;
+    color: #fff !important;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.salir{
+    font-size: 15px;
+    font-family: comfortaa;
+    background: #c62828 !important;
+    color: #fff !important;
+}
+
+.txt_rojo{
+    font-size: 18px;
+    font-family: comfortaa;
+    background: #c62828 !important;
+    color: #fff !important;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.main_logo{
+    margin-top: 5px;
+    width: 40%;
+}
+
+.txt{
+    font-family: comfortaa;
+    color: #fff !important;
+}
+
+.txt_sesion{
+    font-size: 30px;
+    font-family: comfortaa;
+    color: #01579b !important;
+}
+
+.custom_footer{
+  background-color: black;
+  color: white;
+}
+
+.custontable{
+    border: 2 !important;
+}
+
+.cabecera_tabla{
+    color: #01579b  !important;
+}
+.fondo_blanco_loguin{
+  height: 100%;
+  width: 500px !important;
+  position: absolute;
+  top: 0px !important;
+  right: 0px !important;
+  background: #fff !important;
+  border-left: 2px solid #d81b60;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+}
+
+
+
+ /* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+} 
